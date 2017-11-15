@@ -1,5 +1,11 @@
 hello,i am ryan
 hello letatia
+<<<<<<< HEAD
 hello ryan
 hello ,i am letitia
 hello helen
+
+hello ,i am helen
+hello everyone
+after merge helen
+
